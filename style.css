@@ -1,5 +1,5 @@
 .page {
-  color: #2f80ed;
+  color: palegreen;
   font-family: Avenir, Helvetica, Arial, sans-serif;
 
 }
@@ -31,7 +31,7 @@
 }
 
 .error404:hover + .text {
-  color: #2f80ed;
+  color: palegreen;
 
 }
 
@@ -44,6 +44,6 @@ footer {
 }
 
 a {
-  color: #2f80ed;
+  color: palegreen;
 
 }

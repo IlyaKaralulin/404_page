@@ -1,51 +1,49 @@
-body {
-    color: #2f80ed;
-    font-family: Avenir, Helvetica, Arial, sans-serif;
-    
-  }
+.page {
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
 
-.img{
-    width: 520px; 
-    height:190px ; 
-    margin: 110px auto 10px; 
-    display: block;
-    /*border: 2px solid #2f80ed;*/
 }
 
-.error404{
-    margin: 10px auto 0;
-    height: 140px;
-    width: 420px;
-    font-size: 110px;	
-    font-weight:300;					 
-    text-align: center;
-    /*border: 2px solid #2f80ed;*/
+.img {
+  width: 520px;
+  height: 190px;
+  margin: 110px auto 10px;
+  display: block;
+
 }
 
-.text{
-    width: 420px;
-    text-align: center;
-    margin: 22px auto 0;
-    /*border: 2px solid #2f80ed;*/
-    color: white; 
+.error404 {
+  margin: 10px auto 0;
+  height: 140px;
+  width: 420px;
+  font-size: 110px;
+  font-weight: 300;
+  text-align: center;
+
 }
 
-.error404:hover + .text{
-    color: #2f80ed; 
-} 
+.text {
+  width: 420px;
+  text-align: center;
+  margin: 22px auto 0;
+  color: white;
 
-footer{
-    margin: 250px auto 30px;
-    width: 420px;
-    font-weight: 100;					 
-    text-align: center;
-    /*border: 2px solid #2f80ed;*/
 }
 
-a{ 
-    color: #2f80ed; 
-  } 
+.error404:hover + .text {
+  color: #2f80ed;
 
-  
+}
 
+footer {
+  margin: 250px auto 30px;
+  width: 420px;
+  font-weight: 100;
+  text-align: center;
 
+}
+
+a {
+  color: #2f80ed;
+
+}
